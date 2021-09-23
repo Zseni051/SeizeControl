@@ -1,6 +1,6 @@
 # SeizeControl_Official
 
-
+![Preview](https://raw.githubusercontent.com/ark-automated/Ark-Automated/master/Preview.gif)
 
 **Links:**
 * [Discord](https://discord.gg/SXng95f)
