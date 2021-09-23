@@ -1,7 +1,7 @@
 # SeizeControl_Official
 
 **Features**
-Set hotkeys to switch between windows
+* Set hotkeys to switch between windows
 * Set a window's transparency
 * Set a window to always be on top
 * Screenshot an area on your computer and save it to your clipboard, or to a folder automatically without needing to hit save, also displays the image as a movable window if you want to keep it on hand.
