@@ -1,6 +1,6 @@
 # SeizeControl_Official
 
-**Features**
+**Features:**
 * Set hotkeys to switch between windows
 * Set a window's transparency
 * Set a window to always be on top
