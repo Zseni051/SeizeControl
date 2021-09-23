@@ -1,6 +1,6 @@
 # SeizeControl_Official
 
-![Preview](https://raw.githubusercontent.com/ark-automated/Ark-Automated/master/Preview.gif)
+![Preview](https://raw.githubusercontent.com/Zseni-Verified/SeizeControl/main/Saved%20Clip%2020210923162209.png)
 
 **Links:**
 * [Discord](https://discord.gg/SXng95f)
