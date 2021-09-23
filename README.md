@@ -16,3 +16,4 @@
   * [Invite](https://discord.com/api/oauth2/authorize?client_id=836198930873057290&permissions=8&scope=bot)
   * [SupportServer](https://discord.gg/E8DnTgMvMW)
 
+![preview](https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2.png)
