@@ -1,5 +1,5 @@
 # SeizeControl_Official
-![preview](https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2.png)
+![preview](https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2_JmO_icon.ico)
 
 **Features:**
 * Set hotkeys to switch between windows
