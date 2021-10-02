@@ -1,5 +1,13 @@
-# SeizeControl_Official
-![preview](https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2_JmO_icon.ico)
+<h1 align="center">SeizeControl Official</h1>
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.gg/SXng95f">Discord</a> |
+  <a href="http://bit.ly/Zseni-Youtube">YouTube</a> |
+  <a href="https://twitter.com/Zseni10">Twitter</a> |
+  <a href="https://github.com/">Github</a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2_JmO_icon.ico">
+</p>
 
 **Features:**
 * Set hotkeys to switch between windows
