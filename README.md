@@ -24,7 +24,8 @@
 
 
 <p align="center"> 
-  </b><br>
+  <b>Views:</b><br>
+  </b><br> 
     <img src="https://profile-counter.glitch.me/SeizeControl_Official/count.svg">
   </b><br>
   </b><br>
