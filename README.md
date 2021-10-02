@@ -25,6 +25,6 @@
 
 <p align="center"> 
   <b>Views:</b>
-  <br> <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg"> </b>
+  <br> <img src="https://profile-counter.glitch.me/SeizeControl_Official/count.svg"> </b>
   <br> <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en"> </b>
 </p>
