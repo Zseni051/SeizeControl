@@ -18,8 +18,4 @@
 * Can change the font and color of the GUI. Make your own theme for it.
 * Saves all your settings into a .ini file
 
-**Links:**
-* [Discord](https://discord.gg/SXng95f)
-* [Youtube](http://bit.ly/Zseni-Youtube)
-
 
