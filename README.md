@@ -28,9 +28,6 @@
     <img src="https://profile-counter.glitch.me/SeizeControl_Official/count.svg">
   </b><br>
   </b><br>
-  <img src="https://badges.pufler.dev/visits/Zseni-verified/SeizeControl_Official">
-  </b><br>
-  </b><br>
   <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en">
   </b><br>
 </p>
