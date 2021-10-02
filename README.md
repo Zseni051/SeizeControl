@@ -21,10 +21,3 @@
 * Grabs a color anywhere from your desktop, adjust the red, green, blue values, and can produce a random color for you.
 * Can change the font and color of the GUI. Make your own theme for it.
 * Saves all your settings into a .ini file
-
-
-<p align="center"> 
-  <b>Views:</b>
-  <br> <img src="https://profile-counter.glitch.me/SeizeControl_Official/count.svg"> </b>
-  <br> <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en"> </b>
-</p>
