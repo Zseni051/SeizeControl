@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/Zseni-Verified/SeizeControl_Official/main/colour_2_JmO_icon.ico">
 </p>
 
-**Features:**
+## Features:
 * Set hotkeys to switch between windows
 * Set a window's transparency
 * Set a window to always be on top
