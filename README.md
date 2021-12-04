@@ -1,5 +1,5 @@
 <h1 align="center">ZSENI</h1>
-![icon](https://raw.githubusercontent.com/Zseni051/SeizeControl_Official/main/colour_2_JmO_icon.ico)
+<img src="https://raw.githubusercontent.com/Zseni051/SeizeControl_Official/main/colour_2_JmO_icon.ico" align="center" alt="SeizeControl.ico"></a> 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
   <a href="https://twitter.com/zseni10">
