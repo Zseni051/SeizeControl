@@ -9,7 +9,7 @@
     <img align="center" src="https://raw.githubusercontent.com/Zseni051/Zseni051/main/Images/Youtube.svg" height="25" width="33"/></a> |
   <a href="https://discord.gg/SXng95f">
     <img align="center" src="https://raw.githubusercontent.com/Zseni051/Zseni051/main/Images/Discord.svg" height="25" width="33"/></a> |
-  <a href="https://github.com/Zseni-Verified">
+  <a href="https://github.com/Zseni051">
     <img align="center" src="https://raw.githubusercontent.com/Zseni051/Zseni051/main/Images/GitHub.svg" height="25" width="33"/></a>
   <br><br>
 </p>
