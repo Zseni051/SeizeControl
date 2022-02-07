@@ -1,6 +1,6 @@
 <div>
 <p align="center"><a href="https://github.com/Zseni051/SeizeControl_Official">
-  <img src="https://github.com/Zseni051/SeizeControl/blob/main/Images/seizecontrol.png?raw=true" align="center" alt="SeizeControl.ico"></a></p>
+  <img src="https://raw.githubusercontent.com/Zseni051/SeizeControl/main/Images/open-close%20eye.gif" align="center" alt="SeizeControl.ico"></a></p>
 <p align="center">
     <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
