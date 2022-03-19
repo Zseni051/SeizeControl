@@ -19,4 +19,10 @@
 * Can change the font and color of the GUI. Make your own theme for it.
 * Saves all your settings into a .ini file
 
+## ToDo List:
+ * Redo the gui using https://github.com/G33kDude/Neutron.ahk
+ * Can resize cliped image.
+ * Screen Cliper freezes the screen on activation.
+ * Code epic pen.
+
 
